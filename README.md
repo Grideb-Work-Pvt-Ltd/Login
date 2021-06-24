@@ -1,3 +1,3 @@
 # Login
 Development
-Purely for testing and development
+Purely for testing
